@@ -4,7 +4,7 @@ permalink:      /:year-:month-:day/:title
 # Setup
 title:          tongsonge
 baseurl:        ""
-url:            "http://www.tongsonge.com"
+url:            "https://tongsonge.github.io/"
 
 # Assets
 sass:
@@ -17,7 +17,7 @@ markdown:       kramdown
 # About
 author:
   name:         tongsonge
-  url:          http://tongsonge.com/
+  url:          https://tongsonge.github.io/
   email:        tongsonge@gmail.com
   github:       tongsonge
   twitter:

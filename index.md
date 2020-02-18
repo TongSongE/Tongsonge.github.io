@@ -12,14 +12,14 @@ description: Tongsonge, who is a junior data scientist based in Seoul, South Kor
     </h1>
     <h1 class="intro">a Junior Data Scientist
         <div class="intro-link">
-            <a class="transition" href="http://tongsonge.com/" target="_blank">
-                Korea University
+            <a class="transition" href="https://tongsonge.githbu.io/" target="_blank">
+                in Korea University
             </a>
             <div class="underline-mask transition"></div>
             <div class="underline"></div>
         </div>.
     </h1>
-    <h2 class="intro">'Tongsonge' 주니어 데이터 사이언티스트 통송이입니다.</h2>
+    <h2 class="intro"> Data Scientist를 꿈꾸는 통송이입니다.</h2>
 </section>
 </div>
 {% include resume.html %}

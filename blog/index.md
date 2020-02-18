@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Blog"
-description: 아주 가끔씩 관심 분야의 글을 올려요.
+description: 통계학, 프로그래밍에 대해 포스팅합니다.
 main: true
 project-header: true
 header-img: img/about.jpg
