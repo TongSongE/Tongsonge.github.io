@@ -2,9 +2,9 @@
 permalink:      /:year-:month-:day/:title
 
 # Setup
-title:          Jihye Leee
+title:          tongsonge
 baseurl:        ""
-url:            "http://www.jihyeleee.com"
+url:            "http://www.tongsonge.com"
 
 # Assets
 sass:
@@ -16,13 +16,13 @@ markdown:       kramdown
 
 # About
 author:
-  name:         Jihye Leee
-  url:          http://jihyeleee.com/
-  email:        iam.leejihye@gmail.com  
-  github:       iamleejihye
-  twitter:      playpingpong
+  name:         tongsonge
+  url:          http://tongsonge.com/
+  email:        tongsonge@gmail.com
+  github:       tongsonge
+  twitter:
 
 # Custom vars
 version:        3.4.1
 github:
-  repo:         https://github.com/iamleejihye/iamleejihye.github.io
+  repo:         https://github.com/tongsonge/tongsonge.github.io
