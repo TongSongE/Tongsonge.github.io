@@ -18,12 +18,11 @@ order: 9
 그러던 와중 알게된게 Github와 지킬(Jekyll) 테마를 이용한 블로그다.
 지킬은 일종의 블로그 테마로, 예전 네이버 블로그처럼 원하는 사이트의 테마를 찾아 카피하고 그 위에 나만의 컨텐츠를 덧씌우면 된다.
 
+### 블로그를 만들면서 배운 것
 - 'HTML', 'CSS', 'JAVASCRIPT'의 기초개념
-- Git과 Github를 이용한 버전관리와 백업: [생활코딩 GIT1](https://opentutorials.org/course/3837/) 코스
+- Git과 Github를 이용한 버전관리와 백업
 - md(markdown) 파일의 문법
 
-
-
-- 버전관리 도구 GIT에 대해서는 가 가장 쉽게 설명해준다.
-
-- 이지혜님의 블로그 포스팅  [Jekyll Blog 생성에 필요한 기초적인 Github 사용법](http://jihyeleee.com/blog/second-designer-can-make-jekyll-blog/)
+### 도움된 사이트
+- [생활코딩 WEB1](https://opentutorials.org/course/3083) , [생활코딩 GIT1](https://opentutorials.org/course/3837/): 가장 쉽게 설명해준다.
+- 이지혜님의 블로그 [Jekyll Blog 생성에 필요한 기초적인 Github 사용법](http://jihyeleee.com/blog/second-designer-can-make-jekyll-blog/)
