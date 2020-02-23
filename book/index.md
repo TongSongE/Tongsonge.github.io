@@ -2,8 +2,8 @@
 layout: default
 work: true
 main: true
-title: Book recommendation
-description: 리디북스, 리디셀렉트에서 읽을만한 책 추천!
+title: Book
+description: 좋았던 책을 리뷰합니다.
 project-header: true
 header-img: "img/project_bg.jpg"
 ---
