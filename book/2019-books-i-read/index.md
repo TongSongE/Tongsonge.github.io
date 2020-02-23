@@ -9,9 +9,9 @@ book: true
 post-header: true
 header-img: "https://bookthumb-phinf.pstatic.net/cover/070/174/07017430.jpg?udate=20191102"
 order: 3
-data-name: b-all-2019
+data-name: b-important-thing
 ridibooks: true
-link: "https://ridibooks.com/books/"
+link: "https://book.naver.com/bookdb/book_detail.nhn?bid="
 ---
 
 작성 중입니다.
