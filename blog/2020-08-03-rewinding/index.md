@@ -20,6 +20,3 @@ order: 10
 >시간이 많아졌다.
 >침대에서 꾸물거리지 않는다.
 
-
-
-<a href="http://bit.ly/2qoo3wp">![RIDI 디지털 프로덕트 디자이너 채용](https://cdn.dribbble.com/users/291872/screenshots/5483004/ridi-digital-product-designer.jpg)
